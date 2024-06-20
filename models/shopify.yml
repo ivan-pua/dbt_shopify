@@ -1,5 +1,8 @@
 version: 2
 
+sources:
+  - name: uncovered_lawgiver
+
 models:
   - name: shopify__customer_cohorts
     description: Each record represents a customer's performance in a calendar month.
